@@ -1,0 +1,4 @@
+renderers/quartz/public
+renderers/quartz/.quartz-cache
+node_modules
+renderers/quartz/git_backup
