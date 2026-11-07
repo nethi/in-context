@@ -1,4 +1,5 @@
 renderers/quartz/public
 renderers/quartz/.quartz-cache
 node_modules
+.DS_Store
 renderers/quartz/git_backup
